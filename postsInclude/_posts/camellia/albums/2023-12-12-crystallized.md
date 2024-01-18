@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "crystallized"
+title: crystallized
 categories: posts
 author: KatGrrrl
 description: crystallized album page
 permalink: camellia/discography/:title
+date: 2024-01-18T05:24:48.593Z
 ---
 
 ## Overview
@@ -16,7 +17,7 @@ It is the sixth intrumental album by *Camellia*.
 
 ## Tracklist
 
-1. [Rain of Amethyst](#) (07:21)
+1. [Rain of Amethyst](https://open.spotify.com/track/15ktwi9QE0nz7r1yuWfbzO?si=670e0fbfa9014056) (07:21)
 2. [Artificial Snow](#) (04:26)
 3. [amorphous](#) (06:46)
 4. [First Town Of This Journey](#) (03:43)
