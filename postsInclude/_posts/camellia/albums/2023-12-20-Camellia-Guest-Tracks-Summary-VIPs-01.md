@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Camellia \"Guest Tracks\" Summary & VIPs 01"
+title: Camellia "Guest Tracks" Summary & VIPs 01
 categories: posts
 author: KatGrrrl
 description: Camellia "Guest Tracks" Summary & VIPs 01 album page
 permalink: camellia/discography/:title
+date: 2024-01-18T05:51:35.845Z
 ---
 
 ## Overview
@@ -17,7 +18,7 @@ It is a compilation of *Camellia* guest tracks, about half of them are new remix
 ## Tracklist
 
 1. [Introduction - SUMMARY SCRAMBLE](#) (02:25)
-2. [イーディーエム・ジャンパーズ ({E+H}DM Reboot)](#) (05:13)
+2. [イーディーエム・ジャンパーズ ({E+H}DM Reboot)](https://www.youtube.com/watch?v=Sbnz9uL4XE0) (05:13)
 3. [kick the dance floor!!](#) (04:59)
 4. [HINODE (Basscore VIP)](#) (04:36)
 5. [Fly to night, tonight](#) (04:34)
