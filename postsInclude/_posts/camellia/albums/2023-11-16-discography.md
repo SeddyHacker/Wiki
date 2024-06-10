@@ -18,9 +18,20 @@ Here, you will find various songs Camellia has composed or contributed to. If yo
 
 ## 2024
 
+### June
+
+- [lustre](<https://open.spotify.com/track/4LonWRftmYgZZFEtO7ThFr?si=2dc1370d4f2b4bb7>) (*Single*)
+
 ### May
 
-- [Epitaxy](<https://open.spotify.com/track/3LYwZ1cBP64dCTqHjgTSfC?si=e78ae4667c9449fa>) (*Single*)
+- [Epitaxy](<https://open.spotify.com/track/3LYwZ1cBP64dCTqHjgTSfC?si=e78ae4667c9449fa>) (*Single*) 
+- [beatMARIO - Saishuu Kichiku Imouto Flandre-S (Camellia Remix)](<https://youtu.be/miymx9wRmEE?si=iuOXumcT0cQ8AYLG>) (*Single*)
+- [beatMARIO - Night of Knights (Camellia's "Once Upon A Night" Remix)](<https://youtu.be/lL3YoWgdFpU?si=MzyjZDePuzWL9g3J>) (*Single*)
+- [Masayoshi Minoshima - Bad Apple!! feat.nomico (Camellia's "Bad Psy" Remix)](<https://youtu.be/93IpO2pXgHc?si=Csmmy8UFCuZOC1VE>) (*Single*)
+
+### April
+
+- [Kurousa P - Senbonzakura feat. Hatsune Miku (Camellia's "KAIKASENGEN" Remix)](<https://youtu.be/NNpsml1JOgo?si=pCtScfCSNHBgxmLo>) (*Single*)
 
 ### March
 
@@ -28,7 +39,7 @@ Here, you will find various songs Camellia has composed or contributed to. If yo
 
 ### February
 
-- [RUSHIEST RUSH / かめりあ (Camellia)](<>) (*Single*)
+- [RUSHIEST RUSH / かめりあ (Camellia)](<https://www.youtube.com/watch?v=ULpmoSASly4>) (*Single*)
 
 ### January
 
