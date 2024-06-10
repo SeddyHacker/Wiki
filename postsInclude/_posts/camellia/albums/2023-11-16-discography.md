@@ -18,6 +18,14 @@ Here, you will find various songs Camellia has composed or contributed to. If yo
 
 ## 2024
 
+### May
+
+- [Epitaxy](<https://open.spotify.com/track/3LYwZ1cBP64dCTqHjgTSfC?si=e78ae4667c9449fa>) (*Single*)
+
+### March
+
+- [Rodents Kingdom](<https://open.spotify.com/track/2kbe4oKTJx8L8QhS97QJ3n?si=467440c3201d4bea>) (*Single*)
+
 ### February
 
 - [RUSHIEST RUSH / かめりあ (Camellia)](<>) (*Single*)
