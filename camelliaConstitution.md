@@ -65,7 +65,7 @@ The server's hierarchy is broken into six major roles;
 
 ### The Eight Rules
 
-#### **1.** Elitism/toxicity is not allowed (don't be a dick).
+#### **1.** Toxicity is not allowed (don't be a dick).
 
 - This server is going to have a mixture of communities from all over the place (SDVX, IIDX, osu!, GD, etc.). Saying stuff like "osu! is a garbage game IIDX is better" will get you warned. We do not need this kind of elitism on this server. Everyone is equal. Harassment with malicious intent will not be tolerated.
 - We don't allow mini-modding. A helpful hand is always okay but do not try to handle staff-related situations yourself!
@@ -86,6 +86,7 @@ The server's hierarchy is broken into six major roles;
 #### **4.** Use channels correctly and keep discussion in English.
 
 - Sensitive or controversial topics such as religion, politics, and mental triggers belong in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265) (accessible to level 10 users and up).
+- If a serious topic turns into a thought-provoking topic outside of [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265), Camellians are required to move to ⁠[#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 - The majority of the people here speak English. If you want to speak another language, locate the correct language channels.
 
 #### **5.** No spamming or advertising.
@@ -136,6 +137,6 @@ With each case given to us, we must follow the [Staff Guidelines'](/staffGuideli
 
 Some transgressions against the Rules will result in a ban, some may experience a kick or a mute, and we will generally not divulge details about moderator actions unless an Admin grants permission (or an Admin willingly shares this information).
 
-If you wish to be unbanned from Discord, do not visit any of the staff team's social media or unnecessarily stalk them. Wick's ban appeal system is there for a reason![You may appeal here][(https://appeals.wickbot.com/).
+If you wish to be unbanned from Discord, do not visit any of the staff team's social media or unnecessarily stalk them. Wick's ban appeal system is there for a reason! [You may appeal here](https://appeals.wickbot.com/).
 
 Ban evading or aiding a ban will also be met with a ban without warning.
