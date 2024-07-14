@@ -9,7 +9,7 @@ author: Camellia Server Staff
 
 > Go to the [Staff Guidelines](/staffGuidelines.html).
 
-We, the people (Camellians) of the Camellia Discord (CamelliaCord), come together and bond to create a better, easy-to-understand document of regulations and rules. Organized to promote equality and inclusivity and secure the Camellia Discord from any threat, inside and out. Her sovereignty is based on the rights of Camellia himself and the janitors, whose weight keeps pressing harder (Staff Members). Together, the team will control the server and push out punishment and rewards for people of the server.
+We, the people (Camellians) of the Camellia Discord (The Garden), come together and bond to create a better, easy-to-understand document of regulations and rules. Organized to promote equality and inclusivity and secure the Camellia Discord from any threat, inside and out. Her sovereignty is based on the rights of Camellia himself and the janitors, whose weight keeps pressing harder (Staff Members). Together, the team will control the server and push out punishment and rewards for people of the server.
 
 Thank you to some bar in Yugostan for giving me "inspiration" to create this document!
 
@@ -19,11 +19,11 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - Camellia
 
-**Admins** - J6papertek, Nicocchi, thecodingguy (Matt), seddywolf (cedric)
+**Admins** - J6papertek, thecodingguy (Matt), seddywolf (cedric), akiri
 
-**Elder Mods** - flustix (scissortek), ItMePeachy, akiri, exalvus (rocktek)
+**Elder Mods** - flustix, ItMePeachy, exalvus (rocktek)
 
-**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, xeno_butbetter, sjk04 (Phrygia)
+**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, sjk04 (Phrygia), lillybearr (chocominttek), therealsemicolon, obsessiverealityzyndrome (kae), realmw_, mythinsu, mrkattsu (katt)
 
 **People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Artist, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
