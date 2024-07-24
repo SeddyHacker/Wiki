@@ -47,19 +47,21 @@ const Functions = {
 
 		if (method == "POST" && !body) return "give me the body.";
 
+		let data;
 		try {
 			const response = await fetch(`https://backend.camellia.wiki/${url}`, { headers, method, body});
 			if (!response.ok || response.status != 200) {
 				throw new Error(`Failed to communicate to API (response was ${response.ok ? "OK" : "NOT OK"}; status ${response.status})!`);
 			};
-			const data = await response.json();
+			data = await response.json();
 
 			if (data.status != 200) throw new Error(`API returned code ${data.status}`);
 			return data;
 		} catch (error) {
 			Functions.sendToast({ title: "API Request Failed!", content: "Please try reloading. If this keeps happening, please report to the developers.", style: "error" });
 			Logger.error(error);
-			return { ...data, error };
+			if (data) return { ...data, error };
+			else return { error };
 		};
 	},
 	convertTimestamp: (timeStamp, format = "MM/DD/YYYY HH:II:SS") => {
