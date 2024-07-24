@@ -59,7 +59,7 @@ const Functions = {
 		} catch (error) {
 			Functions.sendToast({ title: "API Request Failed!", content: "Please try reloading. If this keeps happening, please report to the developers.", style: "error" });
 			Logger.error(error);
-			return { error };
+			return { ...data, error };
 		};
 	},
 	convertTimestamp: (timeStamp, format = "MM/DD/YYYY HH:II:SS") => {
@@ -156,8 +156,9 @@ const updateUserData = async() => {
 
 	if (dh) {
 		const data = await Functions.sendAPIRequest("account", { Authorization: dh });
-		if (data.status != 200 || data.message != "OK") {
-			if (data.message != "OK" ? (data.message.includes("User " + "not" + " found")) : (data.status == 401)) {
+		if (data.error || (data.status != 200 || data.message != "OK")) {
+			const failedDueToNotFound = data.message ? (data.message != "OK" ? data.message.includes("User " + "not" + " found") : data.status == 401) : false;
+			if (failedDueToNotFound) {
 				Functions.sendToast({ title: "Authentication", content: "Failed to login as you are not in the server!\nClick this toast to open the Discord server invite in a new tab!", style: "error", link: "https://discord.gg/camellia", linkTarget: "_blank" });
 				Functions.Cookie.set("wiki_auth", JSON.stringify({}), 0);
 			} else {
