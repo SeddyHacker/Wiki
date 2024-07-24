@@ -157,7 +157,7 @@ const updateUserData = async() => {
 	if (dh) {
 		const data = await Functions.sendAPIRequest("account", { Authorization: dh });
 		if (data.status != 200 || data.message != "OK") {
-			if (data.message != "OK" ? (data.message.includes("re" + "turned" + " co" + "de 404")) : (data.status == 404)) {
+			if (data.message != "OK" ? (data.message.includes("User " + "not" + " found")) : (data.status == 401)) {
 				Functions.sendToast({ title: "Authentication", content: "Failed to login as you are not in the server!\nClick this toast to open the Discord server invite in a new tab!", style: "error", link: "https://discord.gg/camellia", linkTarget: "_blank" });
 				Functions.Cookie.set("wiki_auth", JSON.stringify({}), 0);
 			} else {
