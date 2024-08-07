@@ -23,7 +23,6 @@ header {
     z-index: -1;
   }
 
-
   .header-shared {
     display: flex;
     width: 100%;
@@ -72,7 +71,7 @@ header {
       transition-duration: 400ms;
       pointer-events: none;
 
-	  &.active {
+      &.active {
         backdrop-filter: blur(5px);
         -webkit-backdrop-filter: blur(5px);
         background-color: rgba(56, 33, 41, 0.4);
@@ -92,12 +91,7 @@ header {
 
         border-radius: 0px 30px 30px 0px;
         border-right: 1px solid rgba(255, 255, 255, 0.2);
-        background: linear-gradient(
-            180deg,
-            rgba(246, 65, 141, 0) 0%,
-            rgba(246, 65, 141, 0.08) 51.04%,
-            rgba(91, 63, 75, 0.2) 100%
-          ),
+        background: linear-gradient(180deg, rgba(246, 65, 141, 0) 0%, rgba(246, 65, 141, 0.08) 51.04%, rgba(91, 63, 75, 0.2) 100%),
           var(--colorCards);
         transition: 0.4s;
 
@@ -182,7 +176,7 @@ header {
                 height: 100%;
                 width: 100%;
                 padding: 10px;
-                gap: 8px;
+                gap: 4px;
               }
             }
           }

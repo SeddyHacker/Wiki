@@ -776,7 +776,7 @@ if (commentSection) {
 				};
 			};
 			commentIcons2.className = "comment-icons";
-			commentIcons2.innerHTML = `<div class="comment-icon ph-bold ph-link" id="comment-link" title="Permalink"></div>${commentIcons2Ex}`;
+			commentIcons2.innerHTML = `<div class="comment-icon ph-bold ph-link-simple" id="comment-link" title="Permalink"></div>${commentIcons2Ex}`;
 			commentIconsContainer.appendChild(commentIcons2);
 
 			commentCard.appendChild(commentIconsContainer);

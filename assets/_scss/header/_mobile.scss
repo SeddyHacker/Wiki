@@ -59,12 +59,7 @@ header {
 
       border-radius: 0px 0px 10px 25px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-      background: linear-gradient(
-          180deg,
-          rgba(246, 65, 141, 0) 0%,
-          rgba(246, 65, 141, 0.08) 51.04%,
-          rgba(91, 63, 75, 0.2) 100%
-        ),
+      background: linear-gradient(180deg, rgba(246, 65, 141, 0) 0%, rgba(246, 65, 141, 0.08) 51.04%, rgba(91, 63, 75, 0.2) 100%),
         var(--colorTriary);
 
       h1 {
@@ -126,10 +121,16 @@ header {
         width: 100%;
       }
     }
+
+    .logo {
+      a:hover {
+        text-decoration: none;
+      }
+    }
   }
 
   #search-container {
-	display: none;
+    display: none;
   }
 
   // .header-mobile-scroll {

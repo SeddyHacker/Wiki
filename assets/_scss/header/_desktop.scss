@@ -83,12 +83,7 @@ header {
 
       border-radius: 0px 0px 25px 25px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-      background: linear-gradient(
-          180deg,
-          rgba(246, 65, 141, 0) 0%,
-          rgba(246, 65, 141, 0.08) 51.04%,
-          rgba(91, 63, 75, 0.2) 100%
-        ),
+      background: linear-gradient(180deg, rgba(246, 65, 141, 0) 0%, rgba(246, 65, 141, 0.08) 51.04%, rgba(91, 63, 75, 0.2) 100%),
         var(--colorTriary);
     }
 
@@ -214,11 +209,11 @@ header {
         border: none;
         font-family: "Author", sans-serif;
         font-size: 18px;
-        font-style: italic;
         font-weight: 494;
 
         &:focus-visible {
           outline: none;
+          color: white;
         }
       }
 
@@ -239,12 +234,7 @@ header {
         border-right: 1px solid rgba(255, 255, 255, 0.2);
         border-bottom: 1px solid rgba(255, 255, 255, 0.2);
         border-left: 1px solid rgba(255, 255, 255, 0.2);
-        background: linear-gradient(
-            180deg,
-            rgba(246, 65, 141, 0) 0%,
-            rgba(246, 65, 141, 0.08) 51.04%,
-            rgba(91, 63, 75, 0.2) 100%
-          ),
+        background: linear-gradient(180deg, rgba(246, 65, 141, 0) 0%, rgba(246, 65, 141, 0.08) 51.04%, rgba(91, 63, 75, 0.2) 100%),
           var(--colorCards);
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
         transition: 0.2s;
@@ -258,16 +248,16 @@ header {
         padding: 0px 8px 8px 8px;
         overflow: auto;
 
-		h3::before {
-			content: "";
-			display: inline-block;
-			background: var(--colorSecondary) 0% 0% no-repeat padding-box;
-			height: 17px;
-			margin-right: 8px;
-			width: 4px;
-			position: inherit;
-			border-radius: 2px;
-		}
+        h3::before {
+          content: "";
+          display: inline-block;
+          background: var(--colorSecondary) 0% 0% no-repeat padding-box;
+          height: 17px;
+          margin-right: 8px;
+          width: 4px;
+          position: inherit;
+          border-radius: 2px;
+        }
 
         li::marker {
           content: "";
@@ -285,9 +275,15 @@ header {
           width: 100%;
           height: 100%;
           padding: 10px;
-          gap: 8px;
+          gap: 4px;
         }
       }
+    }
+  }
+
+  .logo {
+    a:hover {
+      text-decoration: none;
     }
   }
 
@@ -303,6 +299,10 @@ header {
       img {
         width: 44px;
         transition: all 0.2s ease-in-out; // may wanna clean this
+      }
+
+      a:hover {
+        text-decoration: none;
       }
     }
 

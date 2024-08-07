@@ -798,7 +798,7 @@ header .header-shared .sidebar-wrapper #navSidebar #navWedgeContainer #navWedgeI
   height: 100%;
   width: 100%;
   padding: 10px;
-  gap: 8px;
+  gap: 4px;
 }
 header .header-shared .sidebar-wrapper #navSidebar #navWedgeContainer.sticky {
   position: sticky;
@@ -993,11 +993,11 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
     border: none;
     font-family: "Author", sans-serif;
     font-size: 18px;
-    font-style: italic;
     font-weight: 494;
   }
   header .header-shared #search-container input#search-input:focus-visible {
     outline: none;
+    color: white;
   }
   header .header-shared #search-container #results-fixstuff {
     z-index: 1;
@@ -1050,7 +1050,10 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
     width: 100%;
     height: 100%;
     padding: 10px;
-    gap: 8px;
+    gap: 4px;
+  }
+  header .logo a:hover {
+    text-decoration: none;
   }
   header.sticky {
     height: 68px;
@@ -1063,6 +1066,9 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   header.sticky .logo img {
     width: 44px;
     transition: all 0.2s ease-in-out;
+  }
+  header.sticky .logo a:hover {
+    text-decoration: none;
   }
   header.sticky #navigationButtons {
     gap: 4px;
@@ -1191,6 +1197,9 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   header .header-shared .sidebar-wrapper #navSidebar {
     left: -100%;
     width: 100%;
+  }
+  header .header-shared .logo a:hover {
+    text-decoration: none;
   }
   header #search-container {
     display: none;
@@ -1972,7 +1981,7 @@ a {
 
 a:hover {
   color: var(--colorLinksHover);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* Fixed button code */
@@ -2571,7 +2580,7 @@ hr {
   height: 100%;
   width: 100%;
   padding: 10px;
-  gap: 8px;
+  gap: 4px;
 }
 #navWedge #navWedgeContainer.sticky {
   top: 64px;
