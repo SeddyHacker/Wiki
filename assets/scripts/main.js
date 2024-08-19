@@ -364,17 +364,3 @@ document.addEventListener('DOMContentLoaded', function() {
   // update it
   updateDisclaimerPosition();
 });
-
-// add button to change themes
-var currentState = true;
-function switchTheme() {
-    if (currentState) {
-        document.getElementById('css_file').href = "assets/css/testTheme.css";
-    } 
-    else{
-        document.getElementById('css_file').href = "assets/css/styles.css";
-    }
-    currentState = !currentState;
-}
-let changeButton = document.getElementById("veryCursedTheme");
-changeButton.addEventListener('click', switchTheme);

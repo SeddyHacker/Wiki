@@ -1845,8 +1845,8 @@ html {
 body {
   font-family: var(--font-default);
   font-size: 16px;
-  background: linear-gradient(180deg, rgba(240, 108, 155, 0.2) 0%, rgba(48, 37, 41, 0.2) 100%), #111;
-  color: var(--colorWhite);
+  background: #30151f;
+  color: white;
   min-height: 100vh;
   -webkit-font-smoothing: subpixel-antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1975,7 +1975,7 @@ footer #footerText {
 
 /* links */
 a {
-  color: var(--colorLinks);
+  color: silver;
   text-decoration: none;
 }
 
@@ -1986,7 +1986,7 @@ a:hover {
 
 /* Fixed button code */
 .buttonDefault a {
-  background: var(--colorCardDivisor) 0% 0% no-repeat padding-box;
+  background-color: rgba(40, 24, 36, 0.6);
   color: var(--colorWhite);
   text-decoration: none;
   font-size: 20.25px;
@@ -2009,7 +2009,7 @@ a:hover {
 }
 
 .buttonDefault a:hover {
-  background: var(--colorCardDivisorHover) 0% 0% no-repeat padding-box;
+  background-color: rgb(40, 24, 36);
   color: var(--colorWhite);
   box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.25) inset;
 }
@@ -2027,33 +2027,18 @@ a:hover {
 
 /* cards */
 .card {
-  background: var(--colorCards) 0% 0% no-repeat padding-box;
+  background-color: rgba(40, 24, 36, 0.6);
+  width: 100% !important;
   height: fit-content;
-  border-radius: 35px;
+  border-radius: 8px;
   line-height: 26px;
 }
 
-/* hahahaha fuck u bitch hahaha -john */
-.card {
-  max-width: 1136px;
-}
-
-@media screen and (min-width: 1136px) {
-  .card {
-    min-width: 1136px;
-  }
-}
-@media screen and (min-width: 720px) and (max-width: 1136px) {
-  .cardBackground,
-  .card {
-    width: 100%;
-  }
-}
 .miniCard {
-  background: var(--colorCards) 0% 0% no-repeat padding-box;
+  background-color: rgba(40, 24, 36, 0.6);
   height: fit-content;
   block-size: fit-content;
-  border-radius: 35px;
+  border-radius: 8px;
   line-height: 26px;
   margin-block-end: 10px;
   padding-bottom: 32px;
@@ -2149,19 +2134,16 @@ blockquote.tip {
 }
 
 .cardHeader {
-  background: linear-gradient(180deg, rgba(102, 31, 87, 0.3) 0%, rgba(187, 58, 159, 0.12) 50.52%, rgba(217, 130, 198, 0) 100%), var(--colorTriary);
   display: flex;
   justify-content: space-between;
-  border-top: 2px solid var(--colorBorderTertiary);
-  border-bottom: 2px solid var(--colorBorderTertiary);
-  height: 84px;
+  border: solid 1px #808080;
+  height: 72px;
   width: 100%;
   /* hacky way to fix padding on card headers */
 }
 .cardHeader:first-of-type {
-  border-top: 1px solid var(--colorBorderTertiary);
-  border-top-right-radius: 35px;
-  border-top-left-radius: 35px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
 }
 .cardHeader p,
 .cardHeader a {
@@ -2463,9 +2445,10 @@ hr {
 #contentWedge {
   flex-shrink: 0;
   flex-direction: column;
-  background: var(--colorCardDivisor);
-  border-radius: 35px;
+  background-color: rgba(40, 24, 36, 0.6);
+  border-radius: 8px;
   width: 283px;
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.25), inset 0 -1px 1px 0 rgba(255, 255, 255, 0.1), 0 32px 40px 0 rgba(0, 0, 0, 0.24);
 }
 #contentWedge #wedgeContainer {
   position: sticky;
@@ -2541,9 +2524,10 @@ hr {
 #navWedge {
   flex-shrink: 0;
   flex-direction: column;
-  background: linear-gradient(180deg, rgba(246, 65, 141, 0) 0%, rgba(246, 65, 141, 0.08) 51.04%, rgba(91, 63, 75, 0.2) 100%), var(--colorCards);
-  border-radius: 35px;
+  background-color: rgba(40, 24, 36, 0.6);
+  border-radius: 8px;
   width: 283px;
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.25), inset 0 -1px 1px 0 rgba(255, 255, 255, 0.1), 0 32px 40px 0 rgba(0, 0, 0, 0.24);
 }
 #navWedge #navWedgeContainer {
   position: sticky;
@@ -2667,14 +2651,16 @@ em {
   flex-direction: column;
   gap: 10px;
   flex-shrink: 0;
-  background: var(--colorContentContainer) 0% 0% no-repeat padding-box;
+  max-width: 1644px;
+  background-color: rgba(56, 46, 55, 0.5);
   box-sizing: border-box;
-  border: 2px solid var(--colorCardDivisor);
-  border-radius: 40px;
-  padding: 32px;
+  border-radius: 8px;
+  padding: 40px;
   margin-bottom: 72px;
   min-height: 727px;
-  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 32px 40px 0 rgba(0, 0, 0, 0.24), inset 0 1px 1px 0 rgba(255, 255, 255, 0.25), inset 0 -1px 1px 0 rgba(255, 255, 255, 0.1);
 }
 
 /* add a layout wrapper to keep things sane with new comment section */
@@ -2828,4 +2814,30 @@ figure.floatImage {
 
 .stop-scrolling {
   overflow: hidden;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+#titleContainer {
+  min-width: 103rem !important;
+}
+
+.header {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(to bottom, #2a2228 0%, rgba(42, 34, 40, 0.52) 49%, rgba(42, 34, 40, 0)) !important;
+}
+
+.header-inner {
+  background: none !important;
+  border-bottom: none !important;
+  align-self: center !important;
+  align-items: center !important;
+}
+
+#main-bar {
+  border: solid 1px #494446 !important;
+  border-radius: 8px !important;
+  padding-right: 2px !important;
+}
+
+.searchBtn {
+  border-radius: 5px !important;
+  align-self: center !important;
+}/*# sourceMappingURL=testTheme.css.map */

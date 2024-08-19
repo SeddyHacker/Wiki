@@ -17,7 +17,7 @@
     <link rel="icon" type="image/png" href="/assets/images/caramel.png" />
 
     <!-- Page CSS and Scripts -->
-    <link rel="stylesheet" href= "{{ "assets/css/styles.css" | relative_url }}?v={{ versionTime }}" />
+    <link id="css_file" rel="stylesheet" href= "{{ "assets/css/styles.css" | relative_url }}?v={{ versionTime }}" />
     <script src="{{ "assets/scripts/main.js" | relative_url }}?v={{ versionTime }}" defer=""></script>
     <script src="{{ "assets/scripts/toastman.js" | relative_url }}?v={{ versionTime }}" defer=""></script>
 	<!-- <script src="{{ "assets/scripts/tooltipman.js" | relative_url }}?v={{ versionTime }}" defer=""></script> -->
@@ -97,5 +97,39 @@
 		return 0;
 	  }
     });
+  </script>
+  <script>
+  // shoddy ass code that requires a few clicks
+  // - john
+  var currentState = true;
+
+  function loadTheme() {
+      var savedTheme = localStorage.getItem('theme');
+      if (savedTheme) {
+          document.getElementById('css_file').href = savedTheme;
+          currentState = (savedTheme !== "{{ 'assets/css/styles.css' | relative_url }}");
+      }
+  }
+
+  function switchTheme() {
+      var cssFile = document.getElementById('css_file');
+      if (currentState) {
+          cssFile.href = "{{ 'assets/css/testTheme.css' | relative_url }}";
+          localStorage.setItem('theme', "{{ '/assets/css/testTheme.css' | relative_url }}");
+      } else {
+          cssFile.href = "{{ 'assets/css/styles.css' | relative_url }}";
+          localStorage.setItem('theme', "{{ '/assets/css/styles.css' | relative_url }}");
+      }
+      currentState = !currentState;  
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+      loadTheme();
+      let changeButton = document.getElementById("veryCursedTheme");
+      changeButton.addEventListener('click', function(event) {
+          event.preventDefault();  // Prevent the default anchor behavior
+          switchTheme();
+      }); 
+  });
   </script>
 </html>
