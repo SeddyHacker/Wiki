@@ -868,6 +868,7 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   }
   header .header-shared #githubBtn:hover {
     background: var(--colorCardDivisorHover);
+    text-decoration: none;
   }
   header .header-shared #discordBtn {
     text-align: center;
@@ -883,6 +884,7 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   }
   header .header-shared #discordBtn:hover {
     background: var(--colorCardDivisorHover);
+    text-decoration: none;
   }
   header .header-shared .header-inner {
     display: flex;
