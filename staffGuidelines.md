@@ -1,12 +1,15 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff. These guidelines were last updated on 6/15/24
+author: Chocomint Communities. These guidelines were last updated on 8/29/24
 ---
 
 ## A Brief History
 
 > Go to the [Server Constitution](/camelliaConstitution.html).
+
+> There are some ideas not implemented yet for the staff guidelines. These ideas include manager roles, removal of the staff hierarchy, and the democratic discussion system. These ideas will be discussed further for finalization.
+{: .disclaimer }
 
 *The Staff Guidelines were implemented for a general view of
 guidance, advice, and quality assurance. Parts One and Two of these
@@ -30,47 +33,58 @@ in the past.*
 - [Contributor Application](https://forms.gle/qbtPq3nVck9S2z426)
 - [Contributor Form](https://forms.gle/EdpTu9BF3BtdYgm5A)
 
+## Team Philosophy
+
 > A reminder that anything said in the staff chats is to be kept in the staff chats unless stated otherwise by an Admin. Failure to do so will lead to demotion.
 {: .caution }
-> All staff must engage with server members, contribute, or document Camellia activities to maintain a healthy community and their position.
+> All staff must engage with server members, contribute, or document activities to help maintain a healthy community.
 {: .disclaimer }
 
-## Behavioral Guidelines
+### The Vow
 
-1. Try to be nice. This place is supposed to welcome everyone regardless of who they are.
+The social hierarchy of the staff team is to be below members while being in authority. The hierarchy consists of CAMELLIA -> COMMUNITY MEMBERS -> ADMINS -> STAFF MEMBERS. If any staff member were to breach this hierarchy maliciously, they should be directed to these guidelines or punished. The staff team is expected to act as normal members and refrain from giving themselves the benefit over the common member but rather connect with them to establish common values. The goal is not to establish equality but to establish the idea of the common Camellian, in which they all have the same thoughts of liberty. This does not mean to disregard authority but to treat yourself as a common member.
+
+A staff member must be open to the idea of leniency as we shall strive to support free speech regardless of background to discuss our thoughts. This is so we are presented with different ideas. This does not mean endorsing the ideas of prejudice and immorality but being mindful that worldviews differ for each individual. It will allow us to educate individuals who may establish themselves as ignorant. We should stay curious and provide the education needed for any topic discussed or be educated when presented with unknowingness. We must have a curious mind for learning because we don’t want to be ignorant of our decisions. If someone were to be punished or scrutinized for something unclear, we would not use gossip, accusations, or different platforms to validate our choices. Instead, we should know everything about the situation to balance objective and emotional thought.
+
+We are expected to be rational and thoughtful staff members who show compassion and understanding rather than thinking, "Rules are rules, so we are here to follow them." This doesn't mean disregarding order but being mindful of how we act when punishing those deserving. We favor confrontation and communication instead of building up our issues personally or within a group. We should not be afraid of voicing our thoughts to someone scrutinizing us, as there will be no progress if no concerns are made clear to the perpetrator. Snarky, negative comments shall be prohibited outside of the staff channels and kept to oneself unless this negativity is constructive, objective, or banter.
+
+We must be open to trying foreign ideas and strive for new directions. The average member providing odd ideas could sometimes be called "unpopular" or "irrelevant." While opposition is met with these odd ideas, staff members should think curiously when approaching them. Experimentation with approaches may be considered for the progression of the community, as these experiments can be seen as Discord's experiments. For the sake of improvement and a creative mind, we shall experiment with what we have and develop something unique to benefit the members. Members will get frustrated with change regardless, as seen during the server overhaul in 2022. However, this is opposed since progression can help the average member. Feedback is also given through experimentation and should be appreciated.
+
+### Behavioral Guidelines
+
+> A staff member must not place their peers under scrutiny as this will lead to friction. Instead, staff members are preferred to confront the problem and resolve it civilly. Do not endorse buildup!
+{: .disclaimer }
+
+1. Try to be nice. This place is supposed to welcome everyone regardless of who they are and their worldview.
+1. Be open to the idea of leniency. We strive to support free speech regardless of backgrounds to discuss our thoughts.
+1. Encourage discussion to be engaged in an open-minded manner. Take a step back from personal beliefs and opinions and argue reasonably. Learn to educate rather than win.
 1. Try not to be an arbitrary person or make arbitrary decisions in a situation; doing this is unfair.
-1. Try not to be arrogant and avoid brown-nosing. This makes you look stupid and does not fall within the ideals of the staff team. Remind yourself that we are all one!
-1. Treat others how you want to be treated, and try to be approachable to other members.
-1. You are expected to be civil in and outside the community's central server. (This includes neighboring servers, other platforms associated with Camellia, etc.) Do not play middle, either! This ruins staff credibility.
+1. Try not to be arrogant and avoid brown-nosing. This makes you look stupid and does not fall within the standard of the staff team. Remind yourself that we are all one!
+1. You are expected to be civil in and outside the community's central server. (This includes neighboring servers, other platforms associated with Camellia, etc.) Do not play middle, either!
 1. You are expected to be cool. (Be cool!)
 
-## Core Guidelines
+### Core Guidelines
 
 > Contact another staff member if you're feeling burnt out and/or
 you need help with moderating. The staff team looks for
-consistent contribution, not overloaded. Make sure to contact another staff member if you need to.
+consistent contribution, not overloaded.
 {: .disclaimer }
 
 1. You are expected not to take server rules and guidelines lightly. You are below the staff guidelines and the server rules (more below than members). Remember, you have a significant influence on members and outsiders.
 1. You are expected to know basic bot commands for dishing punishment or posting FAQs. For using John Wick, basic commands are !warn !timeout add !purge and !kick. Read #mod-commands for more documentation.
-1. Use your best judgment when it comes to punishing someone or warning them.
 1. You are expected to look at the suggestion channels and suggestions in general. If a member suggests something interesting, please repost it in server direction or bring it up in the staff chat for discussion.
 1. You are expected to help lead the server in the best direction for you and her members.
-1. You are expected to be present when needed.
-1. Try to mention your actions and anything relevant regarding a
-particular member, events, and/or punishments. This is for transparency's sake.
-1. Listen to the room in certain situations; forcefully changing a
-sensitive topic in a channel will only leave people confused and the situation unresolved. Only in extreme cases should sensitive topics be forcefully shifted.
-1. Always remain anonymous when it comes to punishment. Refer to punishments as "staff team decisions."
+1. You are expected to approach situations with a curious mind. Get to know everything about the situation to balance objective and emotional thought.
+1. You are expected to be mindful of advice from peers. If you make a mistake, don't regret it. Take accountability and learn from it.
 1. Political/religious talk is not allowed on the main channels.
 This server has many people with differing opinions. If anyone
 is talking about political situations, redirect them to
 [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265). If anyone is hateful toward a specified group,
 please use the FAQ commands on bigotry (?bigot) or punish them accordingly.
 
-## Guidance of Conduct
+## Guidance of Order
 
-I have noticed staff members complain and some people being afraid of becoming staff members due to how large this server is. Never fear; this part of the guidelines will guide you on certain things!
+I have noticed staff members complain and some people being afraid of becoming staff members due to how large this server is. Never fear; this part of the guidelines will guide you on dishing punishment!
 
 ### Punishment Template
 
@@ -80,28 +94,24 @@ The template for punishing someone is *VERBAL WARNING -> INFRACTION/WARNING -> T
 
 *When people don't listen, you need to take action. Here's how to make yourself look less 1984 and more like Mad Max (a more respected kind of staff member).*
 
+1. Try to mention your actions and anything relevant regarding a
+particular member, events, and/or punishments. This is clarity's sake.
+1. Listen to the room in certain situations; forcefully changing a
+sensitive topic in a channel will only leave people confused and the situation unresolved. Only in extreme cases should sensitive topics be forcefully shifted.
 1. Always put a reason for anything. This includes warnings, bans, and kicks.
-1. If members have questions about a punishment, you are not obligated to answer them. If you choose to, try to make messages short and straightforward on why they were punished. Avoid arguments if you can!
-1. If someone complains about their punishment not being listed in the rules, remind them about reading the room and what we interpret. Alternatively, ignore them (I really like doing this one personally!).
-1. If someone doesn't listen after an infraction, time them out for 10 minutes minimum.
+1. If members have questions about a punishment, you must provide an answer (privately is preferred). If you choose to, try to make messages short and straightforward on why they were punished.
+1. If someone complains about their punishment not being listed in the rules, remind them about reading the room and what we interpret from the room that was presented to us.
+1. If someone doesn't listen after an infraction, time them out.
 
 ### Moderation of content that falls into a "gray" area
 
 *We will consider specific content as a punishable offense when:*
 
-1. The posted content is illegal (i.e., drugs, potential piracy).
-1. The posted content is reported in the ticket channels.
+1. The posted content is illegal (i.e., drugs, piracy).
+1. The posted content is reported in the ticket channels or through Wick.
 1. The user or content bears bigotry and/or hate (such as profiles, bios, or nicknames).
 1. The content being posted violates Discord's [Terms of Service](https://discord.com/terms) or [Community Guidelines](https://discord.com/guidelines).
 1. The content being posted implies anything that breaks the server constitution in a malicious tone.
-
-### Cross-Banning users
-
-*In extreme circumstances, we may ban individuals for their actions in other communities even if they have not breached any rules in this server. This will only happen if all of the following conditions are met.*
-
-1. The user has broken Discord's [Terms of Service](https://discord.com/terms) or [Community Guidelines](https://discord.com/guidelines).
-1. The Admins are confident of any evidence sent regarding such behavior of the user.
-1. The user is not currently on the server but poses a probable risk to the server environment, or the user is already on the server.
 
 ### Overwhelming situations
 
@@ -112,25 +122,26 @@ The template for punishing someone is *VERBAL WARNING -> INFRACTION/WARNING -> T
 1. De-escalate by reassuring people that this action was needed or is being re-evaluated.
 1. Listen to what people say and tell them what they want to hear (unless otherwise). Try to be patient with them so they can feel comfortable with what's happening. By doing this method, it should be easier to diverge a heated topic/discussion and talk about something else.
 
-### Contribution forms
+### Cross-Banning users
 
-We are looking for active contributors who can help the Camellia Server thrive! To do so, please note each contribution you’ve made (or fill out a contribution form!). These contributions will be requested when necessary and are usually asked for every quarter (Q1, Q2, Q3, Q4).
+*In extreme circumstances, we may ban individuals for their actions in other communities even if they have not breached any rules in this server. This will only happen if all of the following conditions are met.*
 
-> To submit a contribution form, please refer to [this link](https://forms.gle/EdpTu9BF3BtdYgm5A).
-{: .tip }
+1. The user has broken Discord's [Terms of Service](https://discord.com/terms) or [Community Guidelines](https://discord.com/guidelines).
+1. The Admins are confident of any evidence sent regarding such behavior of the user.
+1. The user is in the server and poses a safety risk for other members.
+
+## Compassion
 
 ### Crisis handling
 
-> Detailed discussions regarding crisis handling are handled internally and are not disclosed to the public.
+> Detailed discussions regarding crisis handling are handled internally and are not disclosed to the public. If staff members wish to engage silently in crisis handling, they must report all concerning messages to Discord.
 {: .disclaimer }
 
 *In the event of a member having a crisis, breakdown, or rant in a public space, staff members must provide a list of hotline services to support the member (in DMs or in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265)). If a member falls within these conditions, action is required.*
 
 1. The user threatens suicide or self-harm.
-1. The user shows dangerous or concerning behavior in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
+1. The user shows concerning behavior in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265) or any channel.
 1. A fellow member shows concern regarding the conditions above for their other fellow member.
-
-*If staff members wish to engage silently in crisis handling, they must report all concerning messages to Discord.*
 
 Don't be afraid to ask for help. If you're in a crisis, please reach out to any of the resources listed below.
 
@@ -146,6 +157,18 @@ If you are not in immediate crisis or danger and would like to find help, reach 
 1. [Self Help Resources](https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself)
 1. [Finding affordable treatment services](https://mhanational.org/finding-therapy)
 1. [Problem Solving song](https://youtu.be/J-zC46Tiygk)
+
+### Demotions
+
+*Staff members cannot be demoted unless a mutual agreement is made or for emergency reasons.*
+
+*If an agreement is reached, the staff member will be honorably discharged. If a disagreement is reached however, a compromise must be considered.*
+
+#### Compromises
+
+- Staff members may be moved down the hierachy for a position they are more fitting in.
+- An Admin must offer support, lectures, or the staff member must offer a plan for improvement.
+- If no improvement is found within a quarter, the staff member will be dishonorably discharged. We're sorry!
 
 ## Wick's AutoMod
 
@@ -171,6 +194,13 @@ If you are not in immediate crisis or danger and would like to find help, reach 
 {: .centerItem }
 
 *For Discord events, create a calendar date for an event start date and an event ending date. It also adjusts to time zones, making things easier for everyone!*
+
+### Contribution forms
+
+We are looking for active contributors who can help the Camellia Server thrive! To do so, please note each contribution you’ve made (or fill out a contribution form!). These contributions will be requested when necessary and are usually asked for every quarter (Q1, Q2, Q3, Q4).
+
+> To submit a contribution form, please refer to [this link](https://forms.gle/EdpTu9BF3BtdYgm5A).
+{: .tip }
 
 ### Events
 
@@ -214,7 +244,7 @@ When creating announcements for any *important* reason, these guidelines must be
 - Trademarks must be correctly typed, including games, media, music, etc. Examples include YouTube, Discord, etc.
 - Dates must be followed with a specified time (if possible). Dates could be written with [Discord integration](https://r.3v.fi/discord-timestamps) or with HH:MM TIMEZONE. Avoid using GMT; use UTC for ease of use. Date formatting should follow something like this: June 5, 2022 (00:40 UTC-5).
 
-## Promotion Process and Roles
+## Roles
 
 As a part of the staff team, it's important to note how the promotion process works, from Trial Staff to Probationary Staff to full Moderator. Welcome in, and read on!
 
@@ -241,26 +271,6 @@ This role is given to members selected from the Community Contributor Applicatio
 - Review server directions and feedback for understanding what the community wants/needs.
 - Read and review the [event]({{ site.baseurl }}#events) section.
 - Talk and communicate with server members and work with staff members to create something awesome!
-
-### Promotion: What is considered
-
-- Being helpful and engaging with server members.
-- Showing competence in managing behavioral situations.
-- Learning how to work individually and using teamwork.
-- Having a sense of self-awareness and professionalism.
-- Knowing the consequences of acting unprofessional in a public space.
-- Follow and use basic staff resources such as the Staff Guidelines, bot commands, and FAQ commands.
-- Leading the server in the best direction for the sake of Camellia and server members.
-
-### Demotion: What is considered
-
-- No contribution/extreme inactivity.
-- Uncooperative/immature behavior during staff discussions.
-- Not treating others as you wish to be treated.
-- Leaking any confidential information from the staff channels.
-- Multiple breaches in the Staff Guidelines and Server Constitution.
-- Being incompetent and showing no respect for server and staff members.
-- Bypassing AutoMod and its features. (Banned topics do not apply).
 
 Any questions? Bring them up in the staff chats!!
 {: .centerItem .makeBig }
