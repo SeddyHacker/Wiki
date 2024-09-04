@@ -1425,11 +1425,19 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   gap: 5px;
   align-self: stretch;
 }
-#commentSection .comment-wrapper .comment-card .comment-holder .comment-details-header #username {
+#commentSection .comment-wrapper .comment-card .comment-holder .comment-details-header #nickname {
   color: var(--colorPrimary);
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
+  line-height: normal;
+}
+#commentSection .comment-wrapper .comment-card .comment-holder .comment-details-header #username {
+  margin-top: 1px;
+  color: var(--colorGray);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
   line-height: normal;
 }
 #commentSection .comment-wrapper .comment-card .comment-holder .comment-details-header .badges {
@@ -1441,8 +1449,7 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   margin-top: 1px;
   color: var(--colorGray);
   font-size: 16px;
-  font-style: italic;
-  font-weight: 600;
+  font-weight: 500;
   line-height: normal;
 }
 #commentSection .comment-wrapper .comment-card .comment-holder .content {
@@ -1574,13 +1581,11 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
   outline: none;
 }
 #commentSection .comment-wrapper .comment-card .comment-poster #comment-input::-webkit-input-placeholder {
-  font-style: italic;
   font-weight: 500;
   color: var(--colorWhite) !important;
   opacity: 0.5 !important;
 }
 #commentSection .comment-wrapper .comment-card .comment-poster #comment-input::-moz-placeholder {
-  font-style: italic;
   font-weight: 500;
   color: var(--colorWhite) !important;
   opacity: 0.5 !important;
@@ -1672,7 +1677,6 @@ header .header-shared .sidebar-wrapper #navSidebar .btn-container a.kofi-button 
 .profile-wrapper .profile-card .profile-left #profile-details p {
   color: var(--colorGray);
   font-size: 16px;
-  font-style: italic;
   font-weight: 600;
   line-height: normal;
 }
